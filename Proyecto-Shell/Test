@@ -1,0 +1,4 @@
+mkdir carpeta1
+cd carpeta1
+mkdir carpeta2
+echo saludo a todos
